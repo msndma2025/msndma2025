@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" fill="none">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="100%" stop-color="#feca57"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="280" rx="14" fill="#1a1a2e"/>
+
+  <!-- Confidence -->
+  <text x="30" y="42" font-family="monospace" font-size="15" fill="#fff">Confidence</text>
+  <rect x="200" y="30" width="360" height="16" rx="8" fill="#2a2a44"/>
+  <rect x="200" y="30" height="16" rx="8" fill="url(#bar)" width="0">
+    <animate attributeName="width" from="0" to="360" dur="1.5s" fill="freeze"/>
+  </rect>
+  <text x="570" y="42" font-family="monospace" font-size="13" fill="#feca57" text-anchor="end">100%</text>
+
+  <!-- Competence -->
+  <text x="30" y="92" font-family="monospace" font-size="15" fill="#fff">Competence</text>
+  <rect x="200" y="80" width="360" height="16" rx="8" fill="#2a2a44"/>
+  <rect x="200" y="80" height="16" rx="8" fill="url(#bar)" width="0">
+    <animate attributeName="width" from="0" to="79" dur="1.5s" fill="freeze"/>
+  </rect>
+  <text x="570" y="92" font-family="monospace" font-size="13" fill="#feca57" text-anchor="end">22%</text>
+
+  <!-- Caffeine -->
+  <text x="30" y="142" font-family="monospace" font-size="15" fill="#fff">Caffeine</text>
+  <rect x="200" y="130" width="360" height="16" rx="8" fill="#2a2a44"/>
+  <rect x="200" y="130" height="16" rx="8" fill="url(#bar)" width="0">
+    <animate attributeName="width" from="0" to="360" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="570" y="142" font-family="monospace" font-size="13" fill="#ff6b6b" text-anchor="end">OVERFLOW</text>
+
+  <!-- Will to test -->
+  <text x="30" y="192" font-family="monospace" font-size="15" fill="#fff">Will to test</text>
+  <rect x="200" y="180" width="360" height="16" rx="8" fill="#2a2a44"/>
+  <rect x="200" y="180" height="16" rx="8" fill="url(#bar)" width="0">
+    <animate attributeName="width" from="0" to="4" dur="1.5s" fill="freeze"/>
+  </rect>
+  <text x="570" y="192" font-family="monospace" font-size="13" fill="#feca57" text-anchor="end">0%</text>
+
+  <!-- Vibes -->
+  <text x="30" y="242" font-family="monospace" font-size="15" fill="#fff">Vibes</text>
+  <rect x="200" y="230" width="360" height="16" rx="8" fill="#2a2a44"/>
+  <rect x="200" y="230" height="16" rx="8" fill="url(#bar)" width="0">
+    <animate attributeName="width" from="0" to="360" dur="2s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0.6;1" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="570" y="242" font-family="monospace" font-size="13" fill="#feca57" text-anchor="end">immaculate</text>
+</svg>
