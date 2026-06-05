@@ -1,158 +1,75 @@
-# 💀 Welcome to the Void 💀
-
 <div align="center">
 
-```
-    ___
-   / _ \
-  / (_) \
- |   U   |  <- me reading requirements
-  \  P  /
-   \_M_/
-    
- ╔════════════════════════════════════╗
- ║  Some call it "coding"             ║
- ║  I call it "digital procrastination"║
- ╚════════════════════════════════════╝
-```
+<img src="header.svg" width="100%" alt="Certified Code Disaster">
 
-<style>
-  .github-badge {
-    display: inline-block;
-    padding: 8px 12px;
-    margin: 5px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 8px;
-    font-weight: bold;
-    color: white;
-    animation: pulse-glow 2s ease-in-out infinite;
-    cursor: pointer;
-    transition: transform 0.3s;
-  }
-  
-  .github-badge:hover {
-    transform: scale(1.1) rotate(5deg);
-    animation: wiggle 0.5s;
-  }
-  
-  @keyframes pulse-glow {
-    0%, 100% { box-shadow: 0 0 5px rgba(102, 126, 234, 0.5); }
-    50% { box-shadow: 0 0 20px rgba(102, 126, 234, 0.8); }
-  }
-  
-  @keyframes wiggle {
-    0%, 100% { transform: rotate(5deg); }
-    50% { transform: rotate(-5deg); }
-  }
-  
-  .section-title {
-    font-size: 24px;
-    font-weight: bold;
-    margin-top: 30px;
-    color: #667eea;
-    text-decoration: underline;
-  }
-  
-  .fact-box {
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
-    border-left: 4px solid #667eea;
-    padding: 15px;
-    margin: 10px 0;
-    border-radius: 5px;
-    font-style: italic;
-  }
-</style>
+<br><br>
 
-<span class="github-badge">Python</span>
-<span class="github-badge">JavaScript</span>
-<span class="github-badge">Caffeine Addict</span>
-<span class="github-badge">Bug Architect</span>
+<img src="hahaimage.png" width="160" alt="the legend himself">
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🫦 About This Magnificent Disaster
 
-<div class="fact-box">
-<strong>Fun Fact:</strong> My code is like my relationships—full of broken promises and technical debt that I keep saying I'll fix "next sprint."
-</div>
+> **Hot take:** My commit history reads like a true crime documentary. "It worked yesterday" is my villain origin story.
 
-- 💻 Professional button-clicker
-- 🎮 Code golfer (I write big, ugly functions but one day they'll fit on a golf ball)
-- 🍕 I have very strong opinions about tabs vs spaces (spaces are superior and if you disagree, we can't be friends)
-- 🔥 Stack Overflow score: just high enough to be dangerous
-- 🐛 I don't have bugs, I have "undocumented features"
-
----
-
-## 📊 GitHub Stats
-
-<div class="fact-box">
-<strong>Real Talk:</strong> Most of these contributions are just me committing "fix typo" 47 times.
-</div>
-
-```
-[████████████████░░] 80% of my repos are unfinished
-[░░░░░░░░░░░░░░░░░░]  0% chance of me writing tests
-[██████████████████] 100% chance of this README outdating immediately
-```
+- 🧠 I have the confidence of a senior dev and the skills of a Stack Overflow tab
+- ☕ Powered entirely by caffeine, spite, and undeserved optimism
+- 🔥 My code compiles on the first try roughly never
+- 💅 Yes that's my profile pic. Yes I know. You're welcome.
+- 🐛 I ship bugs so exclusive they don't even have names yet
+- 💘 Big fan of three things: girls, anime, and Youkie (in no particular order, but it is that order)
 
 ---
 
-## 🎯 Currently
+## 📊 The Numbers Don't Lie (they do)
+
+<div align="center">
+<img src="stats.svg" width="600" alt="totally real stats">
+</div>
+
+---
+
+## 🎯 What I'm Doing Right Now
 
 ```javascript
-const myProjects = {
-  status: "🔥 In Progress",
-  description: "Doing cool things",
-  actualProgress: "50% planning, 30% coding, 20% debugging, 100% confused",
-  willIFinish: new Promise((resolve) => {
-    // Never resolves. Much like my life.
-  })
+const me = {
+  location: "staring at a bug for 4 hours",
+  solution: "it was a missing semicolon",
+  emotionalState: "questioning everything",
+  coffeeCount: Infinity,
+  willFixLater: true, // (lie)
 }
 ```
 
 ---
 
-## 💬 Words of Wisdom
+## 💬 Certified Wisdom
 
-> "I have no idea what I'm doing, but I do it CONFIDENTLY."
-> — Me, probably right before breaking production
+> "It's not a bug, it's a surprise feature I didn't ask for."
+
+> "Documentation is just a love letter to your future self that you'll never write."
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Slide Into My Repos
 
-<div class="fact-box">
-<strong>Warning:</strong> If you email me, I will respond in 3-6 business weeks. If it's about my code, never.
-</div>
+> **Disclaimer:** I respond to issues with the urgency of a sloth on vacation. Pull requests welcome though — do my job for me, I dare you.
 
-[LinkedIn](https://linkedin.com) | [Twitter](https://twitter.com) | [Email Me If You Dare](mailto:your@email.com)
+[LinkedIn](https://linkedin.com) · [Twitter](https://twitter.com) · [Email (good luck)](mailto:your@email.com)
 
 ---
 
 <div align="center">
 
-### 🎲 Random Developer Fact
-_Refresh the page to get a new existential crisis!_
+### 🎰 Today's Mood
 
-```
-My code:        ⚠️⚠️⚠️⚠️⚠️ (Perfect)
-My documentation: 🔥🔥 (Honest but brutal)
-My sense of humor: ⭐⭐⭐⭐⭐ (Therapeutic)
-```
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="furious typing">
+
+<br><i>me looking productive in standup while actually reading reddit</i>
+
+<br><br>
+<b>Thanks for visiting. Now leave before I make you review my code.</b>
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="typing furiously">
-  <br>
-  <i>me pretending to look busy in standup</i>
-</p>
-
----
-
-**Last updated:** When I remembered this existed | **Next update:** Never, probably
